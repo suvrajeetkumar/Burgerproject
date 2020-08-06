@@ -1,0 +1,9 @@
+.Burger{
+    height: 70vh;
+    width: 50%;
+    overflow: scroll;
+    background-color: brown;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
